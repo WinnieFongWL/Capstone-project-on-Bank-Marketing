@@ -1,6 +1,7 @@
 # Capstone-project-on-Bank-Marketing
 
 This report is done using Tableau
+https://public.tableau.com/app/profile/winnie.fong/viz/WinnieFong_CapstoneProject/TermDepositCampaign 
 
 This dataset is downloaded from UC Irvine Machine Learning Repository. It contains data of 41,188 and 20 inputs, ordered by date (from May 2008 to November 2010) 
 https://archive.ics.uci.edu/dataset/222/bank+marketing 
