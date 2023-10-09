@@ -1,10 +1,9 @@
 # Capstone-project-on-Bank-Marketing
 
-This report is done using Tableau
-https://public.tableau.com/app/profile/winnie.fong/viz/WinnieFong_CapstoneProject/TermDepositCampaign 
+This report is done using [Tableau](https://public.tableau.com/app/profile/winnie.fong/viz/WinnieFong_CapstoneProject/TermDepositCampaign).
 
-This dataset is downloaded from UC Irvine Machine Learning Repository. It contains data of 41,188 and 20 inputs, ordered by date (from May 2008 to November 2010) 
-https://archive.ics.uci.edu/dataset/222/bank+marketing 
+This dataset is downloaded from [UC Irvine Machine Learning Repository](https://archive.ics.uci.edu/dataset/222/bank+marketing). It contains data of 41,188 and 20 inputs, ordered by date (from May 2008 to November 2010) 
+
 
 The data is related with direct marketing campaigns of a Portuguese banking institution. The marketing campaigns were based on phone calls. This is to analyze the effectiveness of the campaign through phone calls and access if the product (bank term deposit) would be ('yes') or not ('no') subscribed. 
 
